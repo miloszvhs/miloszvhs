@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miloszvhs
-- 👀 I’m interested in sport activities like cycling, winter swimming. Travel around different places and walking in the evenings with the audiobook in the background.
+- 👀 I’m interested in fantasy like Warhammer, sport activities like cycling, winter swimming. Travel around different places, walking in the evenings with the audiobook in the background. Also listening to Daft Punk/Rammstein and similar staff
 - 🌱 I’m currently learning C#, .NET, ASP.NET and playing on guitar :D 
 
 <!---
